@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#2f80ed;">Mayur Ankushrao</span></h1>
 <h3 align="center">🚀 A passionate Fullstack Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurankushrao&label=Profile%20views&color=0e75b6&style=flat" alt="mayurankushrao" />
-</p>
 
 ---
 
