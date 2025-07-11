@@ -47,5 +47,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurankushrao" alt="GitHub Streak" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurankushrao&" alt="mayurankushrao" /></p
 </p>
